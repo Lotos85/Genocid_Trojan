@@ -1,5 +1,4 @@
-// This code was been writen by Manta.
-// Telegram @eu_manta
+
 // Testing for Virtual Mashine
 
 #include <iostream>
